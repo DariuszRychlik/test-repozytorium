@@ -1,0 +1,7 @@
+Rozproszone bazy danych
+Obsługa rozproszonego systemu kontroli wersji Git
+Prowadz ˛acy:
+Jakub Szyguła: jakub.szygula@polsl.pl
+Dariusz Marek: dariusz.marek@polsl.pl
+Pokój: 906
+21 stycznia 2022
